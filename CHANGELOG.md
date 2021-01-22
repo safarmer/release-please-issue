@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/safarmer/release-please-issue/compare/v1.0.1...v2.0.0) (2021-01-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change
+
+### Bug Fixes
+
+* breaking change ([5575010](https://www.github.com/safarmer/release-please-issue/commit/55750100811757ee72fc0a8104af453f69c21272))
+
 ### [1.0.1](https://www.github.com/safarmer/release-please-issue/compare/v1.0.0...v1.0.1) (2021-01-22)
 
 
