@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/safarmer/release-please-issue/compare/v2.0.0...v2.0.1) (2021-01-22)
+
+
+### Bug Fixes
+
+* add yet another more commits to the release ([70b8472](https://www.github.com/safarmer/release-please-issue/commit/70b8472ded2a1833a77e2a664f64d78b367a5d46))
+* add yet another more commits to the release ([2e75ba6](https://www.github.com/safarmer/release-please-issue/commit/2e75ba67ca1f2271a5b5cff27fdafccf707a15fe))
+
 ## [2.0.0](https://www.github.com/safarmer/release-please-issue/compare/v1.0.1...v2.0.0) (2021-01-22)
 
 
